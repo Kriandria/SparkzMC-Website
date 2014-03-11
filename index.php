@@ -53,7 +53,23 @@
 
           <div class="mastfoot">
             <div class="inner">
-              <p>Built with <a href="http://getbootstrap.com">Bootstrap</a></p>
+              <p>Built with <a href="http://getbootstrap.com">Bootstrap</a>
+              	 Please Spread the word: <div class="shst-share-widget stock-horizontal-with-counters"> 
+    <a class="shst-share-button shst-facebook"></a> 
+    <a class="shst-share-button shst-twitter"></a> 
+    <a class="shst-share-button shst-google-plus"></a> 
+</div> 
+<script type="text/javascript"> 
+    var apiToken = '632498af4d8e6aa0ee4d6a4bb1198d8f';
+    (function() {
+       var script = document.createElement('script');
+       script.async = true;
+       script.src = '//cdn.shorte.st/social-share-widget/shortest-social-share.min.js';
+       var entry = document.getElementsByTagName('script')[0];
+       entry.parentNode.insertBefore(script, entry);
+    })();
+</script> 
+              </p>
             </div>
           </div>
 

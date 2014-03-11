@@ -53,8 +53,9 @@
 
           <div class="mastfoot">
             <div class="inner">
-              <p>Built with <a href="http://getbootstrap.com">Bootstrap</a>
-              	 Please Spread the word: <div class="shst-share-widget stock-horizontal-with-counters"> 
+              <p>Built with <a href="http://getbootstrap.com">Bootstrap</a></p>
+              <hr />
+              <p></p>	 Please Spread the word: <div class="shst-share-widget stock-horizontal-with-counters"> 
     <a class="shst-share-button shst-facebook"></a> 
     <a class="shst-share-button shst-twitter"></a> 
     <a class="shst-share-button shst-google-plus"></a> 
@@ -68,8 +69,8 @@
        var entry = document.getElementsByTagName('script')[0];
        entry.parentNode.insertBefore(script, entry);
     })();
-</script> 
-              </p>
+</script>
+</p>
             </div>
           </div>
 

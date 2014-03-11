@@ -54,10 +54,9 @@
           <div class="mastfoot">
             <div class="inner">
               <p>Built with <a href="http://getbootstrap.com">Bootstrap</a></p>
-              <hr />
-              <p></p>	 Please Spread the word: <div class="shst-share-widget stock-horizontal-with-counters"> 
-    <a class="shst-share-button shst-facebook"></a> 
-    <a class="shst-share-button shst-twitter"></a> 
+              <p></p>	 <div class="shst-share-widget stock-horizontal-with-counters">Please Spread the word: 
+    <a class="shst-share-button shst-facebook"></a>| 
+    <a class="shst-share-button shst-twitter"></a>|
     <a class="shst-share-button shst-google-plus"></a> 
 </div> 
 <script type="text/javascript"> 

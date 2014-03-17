@@ -35,10 +35,10 @@
               <h3 class="masthead-brand">SparkzMC</h3>
               <ul class="nav masthead-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Connect</a></li>
-                <li><a href="#">Plugins</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href=about.php>About</a></li>
+                <li><a href=connect.php>Connect</a></li>
+                <li><a href=plugins.php>Plugins</a></li>
+                <li><a href=contact.php>Contact</a></li>
               </ul>
             </div>
           </div>

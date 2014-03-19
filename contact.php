@@ -42,3 +42,7 @@
               </ul>
             </div>
           </div>
+
+          <div class="inner Cover">
+            <h1 class="cover-heading">Contact Us!</h1>
+                <p class="lead">If you have any questions about anything--our goals, experience, progress, anything you can think of really-- shoot us an email, we will try to respond as soon as possible.<br><b>Zachary Snyder: "Insert Email Here"<br>Dylan Leh: Djleh32@gmail.com<br>Cory Jeffers: "Insert Email Here"</b>"</p>

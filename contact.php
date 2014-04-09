@@ -51,7 +51,4 @@
                 	<b>Zachary Snyder: Sadin@fedoraproject.org
                 	<br>
                 	<br>
-                	Dylan Leh: Djleh32@gmail.com
-                	<br>
-                	<br>
-                	Cory Jeffers: "Insert Email Here"</b></p>
+                	Dylan Leh: Djleh32@gmail.com</b></p>

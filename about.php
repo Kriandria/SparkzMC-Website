@@ -47,8 +47,12 @@
             <h1 class="cover-heading">About Us</h1>
             <p>As mentioned word for word in the first page,<br>"We at SparkzMC offer Opensource,up to date minecraft plugins, and public test servers to try them out on!"</p>
             <p>What this means is, we will offer you some of the tools that will make your adventures all the more interesting, helping you in your minecraft adventures, while helping us learn how to work in this field.</p>
-            <p class="lead">There are currently 2 members working on the <b>SparkzMC</b> network project, with another member laying dormant until he has the time to work. The first of these members is <i><b>Zachary Snyder</b></i>.</p>
+            <p class="lead">There are currently 2 members working on the <b>SparkzMC</b> network project. They are <i><b>Zachary Snyder</b></i> and <i><b>Dylan Leh</b></i>.</p>
             <br>
             <br>
-            <br>
-            <p class="lead">The second of these members is <b><i>Dylan Leh</i></b>.</p>
+            <h3>Bio of the Members</h3>
+                <h6>Zachary Snyder</h6>
+                <br>
+                <br>
+                <h6>Dylan Leh</h6>
+              
